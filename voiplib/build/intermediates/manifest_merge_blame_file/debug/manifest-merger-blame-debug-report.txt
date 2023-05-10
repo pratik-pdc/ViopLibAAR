@@ -3,6 +3,6 @@
 3    package="com.pdc.voiplib" >
 4
 5    <uses-sdk android:minSdkVersion="21" />
-5-->/Users/hardikchauhan/Documents/VoipLibAAR/voiplib/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7830407906786943965.xml
+5-->/Users/hardikchauhan/Documents/VoipLibAAR/voiplib/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4813740067859382704.xml
 6
 7</manifest>
