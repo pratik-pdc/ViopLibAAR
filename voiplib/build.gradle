@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.pdc.voiplib'
+    namespace 'com.pdc.voiplibaar'
     compileSdk 33
 
     defaultConfig {

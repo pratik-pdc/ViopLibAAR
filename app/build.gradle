@@ -32,8 +32,8 @@ afterEvaluate {
     publishing {
         publications {
             debug(MavenPublication) {
-                groupId = 'com.pdc.voip'
-                artifactId = 'voiplib'
+                groupId = 'com.pdc.voiplibaar'
+                artifactId = 'voiplibaar'
                 version = '1.0.0'
 
                 afterEvaluate {
@@ -41,8 +41,8 @@ afterEvaluate {
                 }
             }
             release(MavenPublication) {
-                groupId = 'com.pdc.voip'
-                artifactId = 'voiplib'
+                groupId = 'com.pdc.voiplibaar'
+                artifactId = 'voiplibaar'
                 version = '1.0.0'
 
                 afterEvaluate {
@@ -52,8 +52,8 @@ afterEvaluate {
         }
         repositories {
             maven {
-                name = 'voip'
-                url = "${project.buildDir}/voip"
+                name = 'voiplibaar'
+                url = "${project.buildDir}/voiplibaar"
             }
         }
     }
