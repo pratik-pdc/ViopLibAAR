@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "VoipLibAAR"
 include ':app'
-include ':voiplib'
